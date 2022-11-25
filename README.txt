@@ -1,0 +1,2 @@
+Para executar o código, basta escrever o comando python3 lexisnexis.py no seu prompt e inserir a sua string desejada como input. Infelizmente não consegui tratar de maneira eficaz e 100% funcional o tipo de dado "email" pois este não segue um padrão muito específico e portanto não conseguir imaginar um jeito de tratá-lo usando a linguagem python e a biblioteca regex. Seria possível caso houvesse algum caractere que indicasse o início e o fim do email.
+
